@@ -1,0 +1,6 @@
+.buildozer/
+.idea/
+__pycache__/
+bin/
+camerax_provider/__pycache__/
+
